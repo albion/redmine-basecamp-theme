@@ -137,3 +137,4 @@ div.splitcontentleft ol li, div.splitcontentleft ul li, div.wiki ol li, div.wiki
 div.wiki ul.toc li { padding: 0; }
 ol li ol li { list-style-type: lower-alpha; }
 ol li ol li ol li { list-style-type: lower-roman; }
+code { border-bottom: 1px solid #DADADA; background-color: #FAFAFA; }
